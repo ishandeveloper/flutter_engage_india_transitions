@@ -12,10 +12,12 @@ class RippleAnimationWrapper extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    double rippleWidth =
-        MediaQuery.of(context).size.width / 1000 * rippleAnimation?.value;
-    double rippleHeight =
-        MediaQuery.of(context).size.height / 1000 * rippleAnimation?.value;
+    double rippleWidth = (MediaQuery.of(context).size.width + 100) /
+        1000 *
+        rippleAnimation?.value;
+    double rippleHeight = (MediaQuery.of(context).size.height + 100) /
+        1000 *
+        rippleAnimation?.value;
 
     return Container(
       child: Stack(
