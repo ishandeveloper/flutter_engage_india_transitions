@@ -1,16 +1,32 @@
-# flutter_engage_india_transitions
+## Flutter Engage India Transitions
 
-A new Flutter project.
+A fun little project for creating transitions for the #FlutterEngageIndia event that happened of March 13th, 2021.
 
-## Getting Started
+#### You can see a live demo at
+<pre><a href="http://flutterengage.ishandeveloper.com/">flutterengage.ishandeveloper.com</a></pre>
 
-This project is a starting point for a Flutter application.
+### Demo
+<img src="./assets/surprise.gif" width="100%">
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  ##### Clone the repository
+```bash
+git clone https://github.com/ishandeveloper/flutter_engage_india_transitions.git
+```
+  ##### Move to the desired folder
+```bash
+cd \flutter_engage_india_transitions
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ##### To run the app, simply write
+```bash
+flutter run
+```
+
+For help getting started with Flutter, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+
+##### Made with ♥ by <a href="https://github.com/ishandeveloper">ishandeveloper</a>
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ishandeveloper)
